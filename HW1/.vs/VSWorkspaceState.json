@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Division",
+    "\\Division\\src",
+    "\\Division\\src\\com",
+    "\\Division\\src\\com\\example",
+    "\\Division\\src\\com\\example\\Division",
+    "\\HelloWorld\\src",
+    "\\HelloWorld\\src\\com",
+    "\\HelloWorld\\src\\com\\example",
+    "\\MoreDuplicate\\src",
+    "\\MoreDuplicate\\src\\com",
+    "\\MoreDuplicate\\src\\com\\example",
+    "\\MoreDuplicate\\src\\com\\example\\MoreDuplicate"
+  ],
+  "SelectedNode": "\\Division\\src\\com\\example\\Division\\Division.java",
+  "PreviewInSolutionExplorer": false
+}

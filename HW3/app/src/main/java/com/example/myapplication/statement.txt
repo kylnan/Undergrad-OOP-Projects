@@ -1,0 +1,8 @@
+The sources used to complete this project are the linked with the following:
+
+https://www.youtube.com/watch?v=H_XxH66lm3U
+https://www.youtube.com/watch?v=OCceWupZ_Ik
+https://www.youtube.com/watch?v=dfhmTyRTCSQ
+https://www.youtube.com/watch?v=3GD-37GQp6c
+https://www.youtube.com/watch?v=ADsL9ZviiJM&t=735s
+https://www.geeksforgeeks.org/how-to-build-a-simple-calculator-app-using-android-studio/

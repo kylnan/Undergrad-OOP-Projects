@@ -1,0 +1,32 @@
+Name: Brandon Mark
+Phone Number: 555 666 7777
+
+Academic:
+University of California, Riverside, GPA: 3.4846153846153842
+C++: 4.0, Java: 4.0, Python: 3.7, Algorithm: 3.3, Python: 3.7, Algorithm: 3.3, C++: 3.0, Java: 2.7, Embedded Programming: 3.3, Computer Architecture: 4.0, Algorithm: 3.0, Antenna Design: 3.3, French Speaking: 4.0
+
+Research:
+06/2020-09/2020
+Research on Dynamic Programming
+01/2021-09/2021
+Research on Parallel Programming
+06/2020-09/2020
+Research on Machine Learning
+
+Projects
+03/2020-06/20202
+Search Engine Project
+12/2019-03/2020
+Electronic Mailing Service
+02/2020-05/2020
+HTML5 Web Game Development
+
+Certifcates
+12/2019
+Dean's Choice Award
+05/2021
+Best Capstone Project Award
+12/2018
+Dean's Choice Award
+06/2018
+President's List
